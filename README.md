@@ -6,4 +6,4 @@ Keys:
  w,s,a,d  - moving
  spacebar - shooting
 
- ![Screenshot](https://github.com/rAum/asciihack/prev.png)
+ ![Screenshot](https://github.com/rAum/asciihack/master/prev.png)
